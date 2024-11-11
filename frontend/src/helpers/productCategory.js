@@ -1,16 +1,16 @@
 const productCategory = [
-    { id : 1, label : "Airpodes", value : "airpodes"},
-    { id : 2, label : "Camera", value : "camera"},
-    { id : 3, label : "Earphones", value : "earphones"},
-    { id : 4, label : "Mobiles", value : "mobiles"},
-    { id : 5, label : "Mouse", value : "Mouse"},
-    { id : 6, label : "Printers", value : "printers"},
-    { id : 7, label : "Processor", value : "processor"},
-    { id : 8, label : "Refrigerator", value : "refrigerator"},
-    { id : 9, label : "Speakers", value : "speakers"},
-    { id : 10, label : "Trimmers", value : "trimmers"},
-    { id : 11, label : "Televisions", value : "televisions"},
-    { id : 12, label : "Watches", value : "watches"},
+    { id : 1, label : "New In Store", value : "new in store"},
+    { id : 2, label : "Fruits& Vegetables", value : "fruits& vegetables"},
+    { id : 3, label : "Dairy, Bread & Eggs", value : "dairy, bread & eggs"},
+    { id : 4, label : "Atta, Rice, Oil & Dals", value : "Atta, Rice, Oil & Dals"},
+    { id : 5, label : "Meats", value : "Meats"},
+    { id : 6, label : "Masala& Dry Fruits", value : "masala&dryfruits"},
+    { id : 7, label : "Tea, Coffee", value : "Tea, Coffee"},
+    { id : 8, label : "Ice Creams &More", value : "Ice Creams &More"},
+    { id : 9, label : "Frozen Food", value : "Frozen Food"},
+    { id : 10, label : "Skincare", value : "Skincare"},
+    { id : 11, label : "Makeup & Beauty", value : "Makeup & Beauty"},
+    { id : 12, label : "Baby Care", value : "Baby Care"},
 ]
 
 

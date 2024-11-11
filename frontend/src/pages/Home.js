@@ -10,17 +10,17 @@ const Home = () => {
       <CategoryList/>
       <BannerProduct/>
 
-      <HorizontalCardProduct category={"airpodes"} heading={"Top's Airpodes"}/>
-      <HorizontalCardProduct category={"watches"} heading={"Popular's Watches"}/>
+      <HorizontalCardProduct category={"new in store"} heading={"New in store"}/>
+      <HorizontalCardProduct category={"fruits& vegetables"} heading={"Fruits& Vegetables"}/>
 
-      <VerticalCardProduct category={"mobiles"} heading={"Mobiles"}/>
-      <VerticalCardProduct category={"Mouse"} heading={"Mouse"}/>
-      <VerticalCardProduct category={"televisions"} heading={"Televisions"}/>
-      <VerticalCardProduct category={"camera"} heading={"Camera & Photography"}/>
-      <VerticalCardProduct category={"earphones"} heading={"Wired Earphones"}/>
-      <VerticalCardProduct category={"speakers"} heading={"Bluetooth Speakers"}/>
-      <VerticalCardProduct category={"refrigerator"} heading={"Refrigerator"}/>
-      <VerticalCardProduct category={"trimmers"} heading={"Trimmers"}/>
+      <VerticalCardProduct category={"dairy, bread & eggs"} heading={"Dairy, Bread & Eggs"}/>
+      <VerticalCardProduct category={"Atta, Rice, Oil & Dals"} heading={"Atta, Rice, Oil & Dals"}/>
+      <VerticalCardProduct category={"Meats"} heading={"Meats"}/>
+      <VerticalCardProduct category={"Masala& Dry Fruits"} heading={"Masala& Dry Fruits"}/>
+      <VerticalCardProduct category={"Tea& Coffee"} heading={"Tea& Coffee"}/>
+      <VerticalCardProduct category={"Ice Creams &More"} heading={"Ice Creams &More"}/>
+      <VerticalCardProduct category={"Makeup & Beauty"} heading={"Makeup & Beauty"}/>
+      <VerticalCardProduct category={"Baby Care"} heading={"Baby Care"}/>
     </div>
   )
 }
